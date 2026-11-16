@@ -1,7 +1,0 @@
-streamlit>=1.44
-folium>=0.19
-streamlit-folium>=0.24
-streamlit-searchbox>=0.1.20
-requests>=2.31
-osmnx>=2.0
-networkx>=3.2
